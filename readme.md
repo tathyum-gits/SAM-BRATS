@@ -15,8 +15,8 @@ This repository contains code for training a custom Segment Anything Model (SAM)
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/brats-sam.git
-cd brats-sam
+git clone https://github.com/tathyum-gits/SAM-BRATS
+cd SAM-BRATS
 ```
 
 2. Install dependencies:
@@ -63,11 +63,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 If you use this code in your research, please cite:
 
 ```bibtex
-@misc{brats-sam,
-  author = {Your Name},
+@misc{SAM-BRATS,
+  author = {Pooja @ Tathyum},
   title = {BraTS Segmentation using SAM},
   year = {2024},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/brats-sam}
+  url = {https://github.com/tathyum-gits/SAM-BRATS}
 }
 ```
